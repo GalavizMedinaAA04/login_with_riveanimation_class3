@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
 
-        colorScheme: .fromSeed(seedColor: Colors.deepPurple), //Aldebaran Galaviz
+        colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
       home: const LoginScreen(),
     );
