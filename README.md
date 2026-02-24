@@ -38,7 +38,7 @@ The main logic is located in the `lib` folder:
 ---
 
 ## 📺 Demo
-![Login Animation Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/your-link-here/giphy.gif)
+![Login Animation Demo](https://github.com/user-attachments/assets/e68d9c60-e497-437e-8846-9435c665974b)
 
 ---
 
